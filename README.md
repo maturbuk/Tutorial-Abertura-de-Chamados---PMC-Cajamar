@@ -21,6 +21,8 @@ Facilitar a transformação digital e o suporte interno, padronizando o envio de
 *   `/video`: Versão compactada do tutorial para visualização rápida.
 *   `/assets`: Logos e elementos visuais utilizados na edição.
 
+  [Aulas:] (https://github.com/maturbuk/Tutorial-Abertura-de-Chamados---PMC-Cajamar/releases/tag/Vdo.V)
+
 ## ✍️ Autor
 Desenvolvido por **[Mariana Santos Turbuk]** como parte da iniciativa de melhoria dos processos internos da [Prefeitura de Cajamar](https://cajamar.sp.gov.br/).
 
